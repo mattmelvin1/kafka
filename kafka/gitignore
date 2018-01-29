@@ -74,6 +74,7 @@ kafka/kafka.iml
 .idea/gradle.xml
 gradlew
 .gradle/
+.gradle/*
 gradle/
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
